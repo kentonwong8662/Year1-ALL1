@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <item type="dict">
+        <Code type="str">A1</Code>
+        <Product_name type="str">iPhone X 64GB</Product_name>
+        <Brand type="str">Apple</Brand>
+        <key name="Price(HKD)" type="float">8588.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">A2</Code>
+        <Product_name type="str">iPhone X 256GB</Product_name>
+        <Brand type="str">Apple</Brand>
+        <key name="Price(HKD)" type="float">9888.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">A3</Code>
+        <Product_name type="str">iPhone 8 64GB</Product_name>
+        <Brand type="str">Apple</Brand>
+        <key name="Price(HKD)" type="float">5988.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">A4</Code>
+        <Product_name type="str">iPhone 8 256GB</Product_name>
+        <Brand type="str">Apple</Brand>
+        <key name="Price(HKD)" type="float">7288.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">A5</Code>
+        <Product_name type="str">iPhone 8 plus 64GB</Product_name>
+        <Brand type="str">Apple</Brand>
+        <key name="Price(HKD)" type="float">6888.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">A6</Code>
+        <Product_name type="str">iPhone 8 plus 256GB</Product_name>
+        <Brand type="str">Apple</Brand>
+        <key name="Price(HKD)" type="float">8188.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">A7</Code>
+        <Product_name type="str">iPhone 7 32GB</Product_name>
+        <Brand type="str">Apple</Brand>
+        <key name="Price(HKD)" type="float">4688.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">A8</Code>
+        <Product_name type="str">iPhone 7 128GB</Product_name>
+        <Brand type="str">Apple</Brand>
+        <key name="Price(HKD)" type="float">5588.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">A9</Code>
+        <Product_name type="str">iPhone 7 plus 32GB</Product_name>
+        <Brand type="str">Apple</Brand>
+        <key name="Price(HKD)" type="float">5788.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">A10</Code>
+        <Product_name type="str">iPhone 7 plus 128GB</Product_name>
+        <Brand type="str">Apple</Brand>
+        <key name="Price(HKD)" type="float">6688.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">A11</Code>
+        <Product_name type="str">iPhone 6s plus 32GB</Product_name>
+        <Brand type="str">Apple</Brand>
+        <key name="Price(HKD)" type="float">4688.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">A12</Code>
+        <Product_name type="str">iPhone 6s plus 128GB</Product_name>
+        <Brand type="str">Apple</Brand>
+        <key name="Price(HKD)" type="float">5588.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">A13</Code>
+        <Product_name type="str">iPhone 6s 32GB</Product_name>
+        <Brand type="str">Apple</Brand>
+        <key name="Price(HKD)" type="float">3788.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">A14</Code>
+        <Product_name type="str">iPhone 6s 128GB</Product_name>
+        <Brand type="str">Apple</Brand>
+        <key name="Price(HKD)" type="float">4688.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">A15</Code>
+        <Product_name type="str">iPhone SE 32GB</Product_name>
+        <Brand type="str">Apple</Brand>
+        <key name="Price(HKD)" type="float">2988.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">A16</Code>
+        <Product_name type="str">iPhone SE 128GB</Product_name>
+        <Brand type="str">Apple</Brand>
+        <key name="Price(HKD)" type="float">3788.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">SA1</Code>
+        <Product_name type="str">Galaxy S8 64GB</Product_name>
+        <Brand type="str">Samsung</Brand>
+        <key name="Price(HKD)" type="float">5698.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">SA2</Code>
+        <Product_name type="str">Galaxy S8+ 64GB</Product_name>
+        <Brand type="str">Samsung</Brand>
+        <key name="Price(HKD)" type="float">6398.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">SA3</Code>
+        <Product_name type="str">Galaxy S8+ 128GB</Product_name>
+        <Brand type="str">Samsung</Brand>
+        <key name="Price(HKD)" type="float">6998.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">SA4</Code>
+        <Product_name type="str">Galaxy S9+</Product_name>
+        <Brand type="str">Samsung</Brand>
+        <key name="Price(HKD)" type="float">9898.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">SA5</Code>
+        <Product_name type="str">Galaxy S9</Product_name>
+        <Brand type="str">Samsung</Brand>
+        <key name="Price(HKD)" type="float">8298.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">SA6</Code>
+        <Product_name type="str">Galaxy note 8 64GB</Product_name>
+        <Brand type="str">Samsung</Brand>
+        <key name="Price(HKD)" type="float">6998.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">SA7</Code>
+        <Product_name type="str">Galaxy note 8 128GB</Product_name>
+        <Brand type="str">Samsung</Brand>
+        <key name="Price(HKD)" type="float">7598.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">SA8</Code>
+        <Product_name type="str">Galaxy note 8 256GB</Product_name>
+        <Brand type="str">Samsung</Brand>
+        <key name="Price(HKD)" type="float">8198.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">SA9</Code>
+        <Product_name type="str">Galaxy A8+</Product_name>
+        <Brand type="str">Samsung</Brand>
+        <key name="Price(HKD)" type="float">4398.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">AS1</Code>
+        <Product_name type="str">zenfone 4</Product_name>
+        <Brand type="str">Asus</Brand>
+        <key name="Price(HKD)" type="float">3798.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">AS2</Code>
+        <Product_name type="str">zenfone 4 Max Pro</Product_name>
+        <Brand type="str">Asus</Brand>
+        <key name="Price(HKD)" type="float">1798.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">AS3</Code>
+        <Product_name type="str">zenfone 4 Pro</Product_name>
+        <Brand type="str">Asus</Brand>
+        <key name="Price(HKD)" type="float">5598.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">AS4</Code>
+        <Product_name type="str">zenfone Max Plus</Product_name>
+        <Brand type="str">Asus</Brand>
+        <key name="Price(HKD)" type="float">1798.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">S001</Code>
+        <Product_name type="str">Xperia XZ Premium</Product_name>
+        <Brand type="str">Sony</Brand>
+        <key name="Price(HKD)" type="float">4698.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">S002</Code>
+        <Product_name type="str">Xperia XZ1</Product_name>
+        <Brand type="str">Sony</Brand>
+        <key name="Price(HKD)" type="float">5598.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">S003</Code>
+        <Product_name type="str">Xperia XZ1 compact</Product_name>
+        <Brand type="str">Sony</Brand>
+        <key name="Price(HKD)" type="float">4298.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">S004</Code>
+        <Product_name type="str">Xperia XZ2</Product_name>
+        <Brand type="str">Sony</Brand>
+        <key name="Price(HKD)" type="float">7898.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">S005</Code>
+        <Product_name type="str">Xperia XA2</Product_name>
+        <Brand type="str">Sony</Brand>
+        <key name="Price(HKD)" type="float">2698.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">S006</Code>
+        <Product_name type="str">Xperia XA1</Product_name>
+        <Brand type="str">Sony</Brand>
+        <key name="Price(HKD)" type="float">1698.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">S007</Code>
+        <Product_name type="str">Xperia XA2 Ultra</Product_name>
+        <Brand type="str">Sony</Brand>
+        <key name="Price(HKD)" type="float">3498.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">S008</Code>
+        <Product_name type="str">Xperia XA1 Ultra</Product_name>
+        <Brand type="str">Sony</Brand>
+        <key name="Price(HKD)" type="float">2698.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">S009</Code>
+        <Product_name type="str">Xperia XZs</Product_name>
+        <Brand type="str">Sony</Brand>
+        <key name="Price(HKD)" type="float">3198.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">H1</Code>
+        <Product_name type="str">U11</Product_name>
+        <Brand type="str">hTC</Brand>
+        <key name="Price(HKD)" type="float">4398.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">H2</Code>
+        <Product_name type="str">U11+</Product_name>
+        <Brand type="str">hTC</Brand>
+        <key name="Price(HKD)" type="float">5598.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">H3</Code>
+        <Product_name type="str">U Ultra</Product_name>
+        <Brand type="str">hTC</Brand>
+        <key name="Price(HKD)" type="float">5498.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">H4</Code>
+        <Product_name type="str">U play</Product_name>
+        <Brand type="str">hTC</Brand>
+        <key name="Price(HKD)" type="float">1798.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">N01</Code>
+        <Product_name type="str">3310 4G</Product_name>
+        <Brand type="str">Nokia</Brand>
+        <key name="Price(HKD)" type="float">598.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">N02</Code>
+        <Product_name type="str">Nokia 8</Product_name>
+        <Brand type="str">Nokia</Brand>
+        <key name="Price(HKD)" type="float">3788.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">N03</Code>
+        <Product_name type="str">Nokia 6</Product_name>
+        <Brand type="str">Nokia</Brand>
+        <key name="Price(HKD)" type="float">2088.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">N04</Code>
+        <Product_name type="str">Nokia 5</Product_name>
+        <Brand type="str">Nokia</Brand>
+        <key name="Price(HKD)" type="float">1388.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">L1</Code>
+        <Product_name type="str">V30+</Product_name>
+        <Brand type="str">LG</Brand>
+        <key name="Price(HKD)" type="float">5698.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">L2</Code>
+        <Product_name type="str">G6+</Product_name>
+        <Brand type="str">LG</Brand>
+        <key name="Price(HKD)" type="float">3998.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">L3</Code>
+        <Product_name type="str">Q6+</Product_name>
+        <Brand type="str">LG</Brand>
+        <key name="Price(HKD)" type="float">2198.0</key>
+    </item>
+    <item type="dict">
+        <Code type="str">L4</Code>
+        <Product_name type="str">V20</Product_name>
+        <Brand type="str">LG</Brand>
+        <key name="Price(HKD)" type="float">3998.0</key>
+    </item>
+</root>
